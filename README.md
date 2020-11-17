@@ -1,6 +1,6 @@
 # Empfaenger
 
-Die Datei "Programm_Empfaenger" beinhaltet Code, welcher es den PC ermöglicht einen Arduino als Joystick zu erkennen, aktuelle per Funk übermittelte Daten 
+Die Datei "Programm_Empfaenger" beinhaltet Code, welcher es den PC ermöglicht einen Arduino (Leonardo) als Joystick zu erkennen, aktuelle per Funk übermittelte Daten 
 eines Joysticks auszulesen und Postions-, sowie Tasteränderungen sichtbar zu machen. 
 
 Das Programm ist in seiner Funktionsweise dadurch bestimmt, dass im Vorhinein die Bibliothek "Joystick" (Ordner "Joystick" herunterladen)
